@@ -1,2 +1,2 @@
 # Excel-Project
-Analyzed a bike buyer dataset which includes informations on individuals who purchased and did not purchase a bike. First started by cleaning the dataset, removed duplicates and reworded some categorical varibles to make the data easier to understand
+Analyzed a bike buyer dataset which includes informations of individuals who purchased and did not purchase a bike. First started by cleaning the dataset, removed duplicates and reworded some categorical varibles to make the data easier to understand. Created pivots tables which was used to make charts displayed on a dashboard, added some slicers that can be used to filter the charts in the dashboard.
